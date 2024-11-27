@@ -8,7 +8,7 @@
 
 Focusing to become a successful Digital Marketer. 
 
-<p align="center"> <img src="[https://komarev.com/ghpvc/?username=Sayef-Ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Sayef-Ahmed](https://media.stickerswiki.app/solo_leveling_sticker/6522433.512.webp)" /> </p>
+<p align="center"> <img src="https://media.stickerswiki.app/solo_leveling_sticker/6522433.512.webp" /> </p>
 
 <table align="center">
 <tr border="none">
