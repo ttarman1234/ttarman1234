@@ -6,7 +6,7 @@
 <h2 align="center"> About Me: </h2>
 <h3 align="center">A Professional Digital Marketer from Bangladesh 🇧🇩</h3>
 
-Focusing to become a successful Digital Marketer. 
+<p align="center">Focusing to become a successful Digital Marketer.</p>
 
 <p align="center"> <img src="https://media.stickerswiki.app/solo_leveling_sticker/6522433.512.webp" /> </p>
 
