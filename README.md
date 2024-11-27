@@ -4,23 +4,23 @@
 </h1>
 
 <h2 align="center"> About Me: </h2>
-<h3 align="center">A passionate software developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">A Professional Digital Marketer from Bangladesh 🇧🇩</h3>
 
-I'm focused on building powerful software applications. Experienced in Python programming and Django backend systems, with a track record of delivering scalable solutions to complex technical challenges. Experienced in both independent development and team collaboration.
+Focusing to become a successful Digital Marketer. 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sayef-Ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Sayef-Ahmed" /> </p>
+<p align="center"> <img src="[https://komarev.com/ghpvc/?username=Sayef-Ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Sayef-Ahmed](https://media.stickerswiki.app/solo_leveling_sticker/6522433.512.webp)" /> </p>
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **REST API**
+- 🌱 I’m currently learning **Digital Marketing**
 
-- 🧑‍🎓 I’m an Undergraduate at **B.Sc. (Hon's) in CSE**
+- 🧑‍🎓 I’m a graduated at **BA. (Hon's) in English**
 
-- 💬 Ask me about **Python & Django**
+- 💬 Ask me about **Digital Marketing**
 
-- 📫 How to reach me **sayefahmed251@gmail.com / hikmotit@gmail.com**
+- 📫 How to reach me **armantamim.dev@gmail.com**
   
 - ⚡ Fun fact **Call me as Snake**
 
